@@ -1,0 +1,12 @@
+flask
+openai
+azure-identity
+azure-ai-projects
+requests
+python-dotenv
+pytz
+python-dateutil
+secure-smtplib
+gunicorn
+azure-core
+azure-ai-projects==1.0.0b7
